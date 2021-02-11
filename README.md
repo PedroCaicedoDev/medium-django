@@ -1,3 +1,2 @@
-# ¡Hola Mundo! en Django
-
-Este proyecto contiene el los archivos fuentes del artículo https://pedrocaicedo.medium.com/hola-mundo-en-django-2363ffb839d1
+# API REST en 5 minutos con Django REST Framework
+Este proyecto contiene los archivos fuentes del artículo https://pedrocaicedo.medium.com/api-rest-en-5-minutos-con-django-rest-framework-bd0a27a5852d
