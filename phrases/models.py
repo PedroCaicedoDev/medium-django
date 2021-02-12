@@ -12,7 +12,7 @@ class Author(models.Model):
 
 
 class Phrase(models.Model):
-    author_slug = models.ForeignKey(Author, on_delete=models.DO_NOTHING)
+    author_slug = models.ForeignKey(Author, db_column='author_slug', on_delete=models.DO_NOTHING)
     text = models.TextField()
 
     class Meta:
